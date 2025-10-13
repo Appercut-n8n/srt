@@ -1,15 +1,24 @@
 1
-00:00:00,080 --> 00:00:04,508
-Regular medical checkups truly help detect and prevent serious diseases in time.
+00:00:00,120 --> 00:00:04,324
+Regular medical checkups help detect and prevent serious diseases in time.
 
 2
-00:00:07,352 --> 00:00:09,961
-It is important to pay attention to proper nutrition,
+00:00:04,664 --> 00:00:05,707
+I'm Veysel Mabedjur.
 
 3
-00:00:10,422 --> 00:00:11,281
-physical activity,
+00:00:07,988 --> 00:00:10,469
+It is important to pay attention to proper nutrition,
 
 4
-00:00:11,539 --> 00:00:12,461
-and quality sleep.
+00:00:10,867 --> 00:00:12,992
+physical activity, and quality sleep.
+
+5
+00:00:13,633 --> 00:00:14,438
+Ita Barak.
+
+6
+00:00:16,703 --> 00:00:20,281
+Mental health care and stress reduction also play a key role.
+
