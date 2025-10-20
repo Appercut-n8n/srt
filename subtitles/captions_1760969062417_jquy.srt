@@ -1,7 +1,7 @@
 1
-00:00:00.079 --> 00:00:03.359
+00:00:00,079 --> 00:00:03,359
 Men's health is essential for longer, healthier lives.
 
 2
-00:00:05.719 --> 00:00:13.380
+00:00:05,719 --> 00:00:13,380
 From preventive care to mental health, community support and regular checkups can help detect and prevent serious diseases in time.
